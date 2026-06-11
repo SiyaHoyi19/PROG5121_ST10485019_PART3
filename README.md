@@ -82,7 +82,6 @@ QuickChat/
 │           └── MessageTest.java  # Unit tests for Message class
 ├── messages.json                 # Stored messages (auto-generated)
 ├── pom.xml                       # Maven configuration
-└── README.md
 ```
 
 ---
