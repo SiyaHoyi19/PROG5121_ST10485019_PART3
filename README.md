@@ -150,12 +150,12 @@ QuickChat/
 ---
 
 ### GitHub Link
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05106800-f1ec-4cbd-a2e0-fe6c9e3e8dcf" />
-
+https://github.com/SiyaHoyi19/PROG5121_ST10485019_PART3
 
 ---
 
 ###Youtube Link
+https://youtu.be/1A6z6ebJD5E?si=CR8cuqADpk7GE7qx
 
 ---
 
