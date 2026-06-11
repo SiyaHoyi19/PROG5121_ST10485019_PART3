@@ -97,7 +97,7 @@ QuickChat/
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/SiyaHoyi19/PROG5121_ST10485019_PART3/edit/main/README.md
+   git clone https://github.com/SiyaHoyi19/PROG5121_ST10485019_PART3
    ```
 2. Open the project in NetBeans
 3. Right-click the project → **Clean and Build**
@@ -151,7 +151,7 @@ QuickChat/
 ---
 
 ### GitHub Link
-https://github.com/SiyaHoyi19/PROG5121_ST10485019_PART3/edit/main/README.md
+https://github.com/SiyaHoyi19/PROG5121_ST10485019_PART3
 
 ---
 
